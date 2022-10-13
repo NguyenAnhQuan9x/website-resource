@@ -1,0 +1,28 @@
+.boxcenter{
+    width: 700px;
+    height: 600px;
+    margin-left: 300px;
+    background-color: beige;
+}
+.headeradmin{
+    width: 700px;
+    margin-top: 100px;
+    background-color: rgb(126, 130, 136);
+    border: 1px solid;
+    text-align: center;
+}
+ul li{
+    float: left;
+    margin-left: 20px;
+    background-color: aquamarine;
+    height: 25px;
+    border: 1px solid rgb(208, 188, 188);
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+}
+.frmtitle{
+    margin-top: 100px;
+    margin-left: 200px;
+}
